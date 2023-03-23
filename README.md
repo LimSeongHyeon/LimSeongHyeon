@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/c♯-00599C?style=for-the-badge"><img src="https://img.shields.io/badge/java-E9711C?style=for-the-badge">
 
 #### Roughly-know 
-<img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge"><img src="https://img.shields.io/badge/ER_Modeling-000000?style=for-the-badge"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"><img src="https://img.shields.io/badge/MFC-000000?style=for-the-badge"><img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge"><img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge"><img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge"><img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge"><img src="https://img.shields.io/badge/ER_Modeling-000000?style=for-the-badge"><img src="https://img.shields.io/badge/Android Studio-000000?style=for-the-badge"><img src="https://img.shields.io/badge/MFC-000000?style=for-the-badge"><img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge"><img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge"><img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge"><img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge">
 
 </br>
 </br>
