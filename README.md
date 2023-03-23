@@ -31,10 +31,10 @@
 <hr>
 
 ### `@override func skillDidLearn()`
-- SwiftUI Basic Components
+- SwiftUI Basic Components / Custom Components / Custom Styles
 - Alamofire / Restful API Access
 - UserDefaults / KeyChain
-- 
+
 
 <hr>
 
@@ -52,10 +52,12 @@
 
 ## PROJECTS
 <hr>
+
 ### `var currentProjects: [Project]`
 
 
 <hr>
+
 ### `var finishedProjects: [Project]`
 
 <hr>
