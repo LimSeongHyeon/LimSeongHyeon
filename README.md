@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=apple&logoColor=white"><img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"><img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
 <hr>
 
+</br>
+
 ## TOOLS & LANGUAGES
 
 #### Main Language 
