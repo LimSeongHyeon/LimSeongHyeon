@@ -1,7 +1,5 @@
 ## Hi, I'm SeongHyeon Lim 🖐
 
-<hr>
-
 #### *Live in Korea* 🇰🇷
 
 #### *Computer Engineering at Seokyeong University* 🏫
