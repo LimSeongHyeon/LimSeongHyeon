@@ -1,4 +1,4 @@
-### Hi, I'm SeongHyeon Lim 🖐
+## Hi, I'm SeongHyeon Lim 🖐
 
 <hr>
 
@@ -8,6 +8,9 @@
 
 #### *iOS Developer* 
 <img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=apple&logoColor=white"><img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"><img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
+
+</br>
+</br>
 
 <hr>
 
@@ -23,8 +26,10 @@
 #### Roughly-know 
 <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge"><img src="https://img.shields.io/badge/ER_Modeling-000000?style=for-the-badge"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"><img src="https://img.shields.io/badge/MFC-000000?style=for-the-badge"><img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge"><img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge"><img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge"><img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge">
 
+</br>
+</br>
 
-
+## SKILLS
 <hr>
 
 ### `@override func skillDidLearn()`
@@ -44,5 +49,15 @@
 ### `@override func skillWillLearn()`
 - Alamofire Clean Code
 
+</br>
+</br>
+
+## PROJECTS
+<hr>
+### `var currentProjects: [Project]`
+
+
+<hr>
+### `var finishedProjects: [Project]`
 
 <hr>
