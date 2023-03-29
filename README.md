@@ -10,11 +10,11 @@
 
 
 
-Email
+📧 **Email:** shot7351@gmail.com
 
-Velog
+📗 **Velog:** https://velog.io/@shot7351
 
-Notion
+✎ **Notion - study:** https://limseonghyeon.notion.site/STUDY-ed97f56f7c144abd8f397552141203b7
 
 <hr>
 
@@ -96,4 +96,3 @@ Notion
 - 중고물품 경매 앱
 
 <hr>
-
