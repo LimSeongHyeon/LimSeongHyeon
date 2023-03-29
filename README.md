@@ -51,13 +51,21 @@
 </br>
 
 ## PROJECTS
-<hr>
-
-### `var currentProjects: [Project]`
-
 
 <hr>
 
 ### `var finishedProjects: [Project]`
+- SKUP-서경대학교 포탈 앱
+
+<hr>
+
+### `var currentProjects: [Project]`
+
+<hr>
+
+### `var upcomingProjects: [Project]`
+- SKUP Refactoring
+- Weight training assistance app
+- Secondhand auction app
 
 <hr>
