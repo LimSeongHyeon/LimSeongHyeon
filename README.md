@@ -1,4 +1,4 @@
-## Hi, I'm SeongHyeon Lim 🖐
+## SeongHyeon Lim 
 
 #### *Live in Korea* 🇰🇷
 
@@ -78,6 +78,7 @@
 
 ### `@override func skillWillLearn()`
 
+- AWS API Gateway with IAM Auth
 - Alamofire Clean Code
 - Android OS Development
 
