@@ -58,8 +58,20 @@
 
 ### `@override func learnSkills()`
 
-- UIKit Basic Components
-- Change ViewController on UIKit
+- AWS Services
+  - RDS (PostgreSQL)
+  - S3
+  - EC2 (Ubuntu - FastAPI)
+  - API Gateway (WebSocket)
+
+- macOS Programming
+  - CallManager System
+  - POS System
+  - WebSocket to API Gateway
+  - QR Generator / QR Scanner without UIKit (Only SwiftUI for macOS)
+
+- API Development (FastAPI)
+- ReactJS (Just Interested Things)
 
 <hr>
 
@@ -67,6 +79,7 @@
 ### `@override func skillWillLearn()`
 
 - Alamofire Clean Code
+- Android OS Development
 
 </br>
 </br>
@@ -78,21 +91,27 @@
 
 ### `var finishedProjects: [Project]`
 
-- SKUP-서경대학교 포탈 앱
+- SKUP - 서경대학교 포탈 앱
 
 <hr>
 
 ### `var currentProjects: [Project]`
 
-- [UIKit 공부로 인한 Project 중단]
+- 사내 시스템 구축
+  - DB Modeling
+  - API Server
+  - macOS Application
+
 
 <hr>
 
 
 ### `var upcomingProjects: [Project]`
+- 사내 시스템 구축
+  - iOS Application
+  - Android Application
+  - Frontend Development
 
 - SKUP - Refactoring
-- BIG5 - 근력 운동 도움 앱
-- 중고물품 경매 앱
 
 <hr>
