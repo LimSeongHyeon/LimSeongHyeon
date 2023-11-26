@@ -99,19 +99,16 @@
 ### `var currentProjects: [Project]`
 
 - 사내 시스템 구축
-  - DB Modeling
+  - DB Modeling [Done]
   - API Server
   - macOS Application
+  - padOS Application
+
+- 고객용 서비스 앱
+  - iOS Application
 
 
 <hr>
-
-
-### `var upcomingProjects: [Project]`
-- 사내 시스템 구축
-  - iOS Application
-  - Android Application
-  - Frontend Development
 
 - SKUP - Refactoring
 
