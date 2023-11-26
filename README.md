@@ -14,8 +14,6 @@
 
 📗 **Velog:** https://velog.io/@shot7351
 
-✎ **Notion - study:** https://limseonghyeon.notion.site/STUDY-ed97f56f7c144abd8f397552141203b7
-
 <hr>
 
 </br>
