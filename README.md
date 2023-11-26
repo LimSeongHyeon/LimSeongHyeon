@@ -29,6 +29,10 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/figma-7952B3?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 #### Experienced AWS Services
+<img src="https://img.shields.io/badge/EC2-000000?style=for-the-badge&logo=amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/EC2-000000?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/EC2-000000?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/EC2-000000?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/EC2-000000?style=for-the-badge&logo=aws&logoColor=white">
 
 </br>
