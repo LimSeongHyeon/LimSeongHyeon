@@ -5,6 +5,7 @@ I'm on a journey to become a **security expert**, starting from my background as
 I'm based in **South Korea 🇰🇷**, and I love learning, building, and sharing!
 
 ---
+</br>
 
 ## 🚀 Tech I Use While Developing
 
@@ -15,7 +16,7 @@ I'm based in **South Korea 🇰🇷**, and I love learning, building, and sharin
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/AppKit(NSKit)-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
+</p></br>
 
 
 **⚙️ DevOps & Infra**
@@ -30,21 +31,21 @@ I'm based in **South Korea 🇰🇷**, and I love learning, building, and sharin
   <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/API_Gateway-FF4F00?style=for-the-badge&logo=amazon-api-gateway&logoColor=white"/>
-</p>
+</p></br>
 
 **🛢️ Databases**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-</p>
+</p></br>
 
 **📊 Monitoring & Security**
 <p>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-FF6A3A?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
+</p></br>
 
 **🧰 Tools**
 <p>
@@ -56,11 +57,11 @@ I'm based in **South Korea 🇰🇷**, and I love learning, building, and sharin
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
 </p>
 
 
 ---
+</br>
 
 ## 🌟 Open Source Projects
 
@@ -71,6 +72,7 @@ I'm based in **South Korea 🇰🇷**, and I love learning, building, and sharin
 
 
 ---
+</br>
 
 ## ✍️ Latest Posts
 | Title | Date | Link |
@@ -79,6 +81,7 @@ I'm based in **South Korea 🇰🇷**, and I love learning, building, and sharin
 | [How to use Proxmark3 (Jack)](https://blog.limseonghyeon.com/entry/Proxmark3) | 2025-07-15 | [🔗](https://blog.limseonghyeon.com/entry/Proxmark3) |
 
 ---
+</br>
 
 ## 🔍 What I'm Into Lately
 
@@ -89,6 +92,7 @@ I'm based in **South Korea 🇰🇷**, and I love learning, building, and sharin
 - AI + Security (Malware detection, log parsing)
 
 ---
+</br>
 
 ## 📬 Contact Me
 
