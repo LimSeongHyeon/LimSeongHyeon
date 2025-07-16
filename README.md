@@ -76,10 +76,10 @@ I'm based in **South Korea 🇰🇷**, and I love learning, building, and sharin
 </br>
 
 ## ✍️ Latest Posts
-| Title | Date | Link |
-|-------|------|------|
-| [How to use Volatility3](https://blog.limseonghyeon.com/entry/Volatility-3) | 2025-06-14 | [🔗](https://blog.limseonghyeon.com/entry/Volatility-3) |
-| [How to use Proxmark3 (Jack)](https://blog.limseonghyeon.com/entry/Proxmark3) | 2025-07-15 | [🔗](https://blog.limseonghyeon.com/entry/Proxmark3) |
+| Title | Date |
+|-------|------|
+| [🔗 How to use Volatility3](https://blog.limseonghyeon.com/entry/Volatility-3) | 2025-06-14 |
+| [🔗 How to use Proxmark3](https://blog.limseonghyeon.com/entry/Proxmark3) | 2025-07-15 |
 
 ---
 </br>
