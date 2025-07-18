@@ -3,7 +3,7 @@
 Welcome to my GitHub!  
 I'm SeongHyeon Lim — You can call me Jack if you want.  
 I'm on a journey to become a **security expert**, starting from my background as a **backend and iOS developer**.  
-I'm based in **South Korea 🇰🇷**, and I love learning, building, and sharing!
+I'm based in **South Korea 🇰🇷**, and I love learning!
 
 ---
 </br>
